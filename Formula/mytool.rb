@@ -1,4 +1,4 @@
-class Formula < Formula
+class Mytool < Formula
   desc "Simple formula library and app example"
   homepage "https://github.com/debugee/mytool"
   url "https://github.com/debugee/mytool/archive/refs/tags/2.0.tar.gz"
