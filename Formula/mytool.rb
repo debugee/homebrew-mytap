@@ -1,7 +1,7 @@
 class Mytool < Formula
   desc "Simple formula library and app example"
   homepage "https://github.com/debugee/mytool"
-  url "https://github.com/debugee/mytool/archive/refs/tags/2.0.tar.gz"
+  url "https://github.com/debugee/mytool/archive/refs/tags/3.0.tar.gz"
   sha256 "2423bb4e7fa460c13adcfc8de4cf9244d8554b6ac070347ca7a5ccf8c2a22791"
   license "MIT"
 
