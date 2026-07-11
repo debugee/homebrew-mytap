@@ -1,8 +1,8 @@
 class Mytool < Formula
   desc "Simple formula library and app example"
   homepage "https://github.com/debugee/mytool"
-  url "https://github.com/debugee/mytool/archive/refs/tags/8.0.tar.gz"
-  sha256 "2a5c1eee5690617c4ce62029c5a50c5965dca1bf7ca8494ccd9af1b3686567da"
+  url "https://github.com/debugee/mytool/archive/refs/tags/9.0.tar.gz"
+  sha256 "e33e118cb6f904215ba20f3f0a54407da048ca323aeeae224794f7232b49b5d0"
   license "MIT"
 
   depends_on "cmake" => :build
