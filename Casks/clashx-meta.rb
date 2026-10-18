@@ -17,7 +17,7 @@ cask "clashx-meta" do
 
   app "ClashX Meta.app"
 
-  preflight_steps do
+  preflight do
     system_command "xattr",
                    args: ["-cr", "#{staged_path}/ClashX Meta.app"]
   end
